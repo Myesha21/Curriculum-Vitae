@@ -23,6 +23,7 @@ a:link, a:visited {
 /*form subheading*/
 th{
   color: #8B4513;
+  font-size:200;
 }
 
 fieldset{
