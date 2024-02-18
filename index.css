@@ -2,6 +2,7 @@ body{
 background-color: #556b2f;
 }
 
+/*header color*/
 h1{
   color: #8B4513;
   font-size: 400;
@@ -18,10 +19,11 @@ a:link {color: #000000;}
 a:hover {color: #EEE8AA;}
 }
 
+/*form subheading*/
 th{
   color: #8B4513;
   font size: 10px;
-  font-family: "Lucidia Bright", "Arial":
+  font-family: "Lucidia Bright", "Arial";
 }
 
 fieldset{
