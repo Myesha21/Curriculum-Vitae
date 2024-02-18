@@ -16,8 +16,8 @@ h3{
 a{
 font-family: "LucidaBright", "Arial";
 }
-a:link color: #000000;
-a:hover color: #EEE8AA;
+a:link {color #000000};
+a:hover {color #EEE8AA};
 
 /*form subheading*/
 th{
