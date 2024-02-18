@@ -2,7 +2,11 @@ body{
 background-color: #556b2f;
 }
 
-h1,
+h1{
+  color: #EEE8AA;
+  text shadow: 5px 5px black;
+}
+
 h2,
 h3{
   color: #EEE8AA;
