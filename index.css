@@ -10,23 +10,21 @@ h1{
 h2,
 h3{
   color: #EEE8AA;
-  font-family: "Lucidia Bright", "Arial";
 }
 
 a{
   font-family: "LucidaBright", "Arial";
-}
 a:link {color: #000000;}
 a:hover {color: #EEE8AA;}
+}
 
 th{
   color: #8B4513;
-  font size: 300%;
+  font size: 10px;
   font-family: "Lucidia Bright", "Arial":
 }
 
-fieldset
-{
+fieldset{
   background-color:#8B4513;
   max-width:500;
   padding:16;	
