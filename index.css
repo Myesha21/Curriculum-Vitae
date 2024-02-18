@@ -14,15 +14,14 @@ h3{
 }
 
 a{
-font-family: "LucidaBright", "Arial";
+font-family: "LucidaBright", "Arial";}
 a:link {color: #000000;}
 a:hover {color: #EEE8AA;}
-}
 
 /*form subheading*/
 th{
   color: #8B4513;
-  text-size: 150px;
+  font-size: 150px;
   font-family: "Lucidia Bright", "Arial";
 }
 
