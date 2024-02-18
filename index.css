@@ -2,13 +2,10 @@ body{
 background-color: #556b2f;
 }
 
-h1{
-  color: #D2691E;
-}
-
+h1,
 h2,
 h3{
-  color: ##EEE8AA;
+  color: #EEE8AA;
 }
 
 a{
