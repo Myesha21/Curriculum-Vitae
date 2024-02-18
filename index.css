@@ -13,11 +13,12 @@ h3{
   color: #EEE8AA;
 }
 
-a{
-font-family: "LucidaBright", "Arial";
+a:link, a:visited {
+  color: black;
 }
-a:link {color #000000};
-a:hover {color #EEE8AA};
+  a:hover, a:active {
+  background-color: #EEE8AA;
+  }
 
 /*form subheading*/
 th{
