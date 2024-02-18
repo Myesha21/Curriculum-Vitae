@@ -17,7 +17,7 @@ a:link, a:visited {
   color: black;
 }
   a:hover, a:active {
-  background-color: #EEE8AA;
+  color: #EEE8AA;
   }
 
 /*form subheading*/
