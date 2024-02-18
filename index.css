@@ -4,6 +4,7 @@ background-color: #556b2f;
 
 h1{
   color: #8B4513;
+  font-size: 400;
 }
 
 h2,
@@ -19,13 +20,14 @@ a:hover {color: #EEE8AA;}
 
 th{
   color: #8B4513;
+  font size: 3em;
 }
 
 fieldset
 {
   background-color:#8B4513;
-  max-width:500px;
-  padding:16px;	
+  max-width:500;
+  padding:16;	
 }
 
 
