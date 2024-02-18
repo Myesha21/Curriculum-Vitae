@@ -17,6 +17,10 @@ a{
 a:link {color: #000000;}
 a:hover {color: #EEE8AA;}
 
+th{
+  color: #8B4513;
+}
+
 fieldset
 {
   background-color:#8B4513;
