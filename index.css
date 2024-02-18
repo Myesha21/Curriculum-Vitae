@@ -6,3 +6,8 @@ h2{
   color: #EEE8AA;
 }
 
+a{
+  font-family: Lucida Bright, Arial;
+}
+a:link {color: #000000;}
+a:hover {color: #EEE8AA;}
