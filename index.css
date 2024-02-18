@@ -14,7 +14,7 @@ a{
 a:link {color: #000000;}
 a:hover {color: #EEE8AA;}
 
-form{
-  color: #CD853F;
+.field_set{
+  border-color: #8B4513;
+  border-style: solid;
 }
-
