@@ -2,6 +2,9 @@ body{
 background-color: #556b2f;
 }
 
+.box{ 
+  border: 5px solid maroon;
+
 /*header color*/
 h1{
   color: #8B4513;
