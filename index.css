@@ -7,6 +7,8 @@ border: 6px double #8B4513
 h1{
   color: #800000;
   font-size: 400;
+  border-bottom: 3px solid #8B4513;
+  margin: 100px;
 }
 
 h2,
@@ -26,6 +28,7 @@ a:link, a:visited {
 th{
   color: #800000;
   font-size:200;
+  margin:10px;
 }
 
 fieldset{
@@ -41,7 +44,10 @@ fieldset{
 }
 
 h2{
-  border: 2px solid #8B4513
+  border: 3px solid;
+  border-color:#8B4513;
+  padding: 4px;
+  margin: 3px;
 }
 
 
